@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rio</h1>
+<h1 align="center">Hi 👋, I'm OpuDreamer</h1>
 <h3 align="center">Developer passionate about Gamehacking and Minecraft</h3>
 
 <p align="center">
